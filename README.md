@@ -13,10 +13,10 @@ I'm Nevpzo, a french student currently in my 1st year of a master's degree in Me
 
 ### Languages 🌐
 
-| Language      | Proficiency         |
-| ------------- | ------------------- |
-| English       | C1                  |
-| French        | Native language     |
+| Language      | Proficiency           |
+| ------------- | --------------------- |
+| English       | C2 (EF SET certified) |
+| French        | Native language       |
 
 ### Profile visitors
 
